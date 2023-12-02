@@ -6,6 +6,8 @@ I currently work as a nanny and as a library assistant at the Collingswood Publi
 
 I am interested in art, reading, and music. 
 
+Here is a [link](https://github.com/MCLD/greatreadingadventure) to an interesting repository about public library services
+
 <!--
 **emmaktallman/emmaktallman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
