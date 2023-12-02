@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Emma and I am in my last quarter of Drexel University's MS in Library and information sciences program.
+I have an undergraduate degree in Psychology from George Washington University. 
+I currently work as a nanny and as a library assistant at the Collingswood Public Library. 
+
+I am interested in art, reading, and music. 
+
 <!--
 **emmaktallman/emmaktallman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
